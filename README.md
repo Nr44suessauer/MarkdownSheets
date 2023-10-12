@@ -3,14 +3,13 @@
 
 Here are the Markdown Sheets for the courses:
 
-    RealTime Systems        (262312 & 261272)
-    Signalverarbeitung 2    (262057 / 261457)
-    Integrated Sensors      (262143 / 261843)
+- RealTime Systems        (262312 & 261272)
+- Signalverarbeitung 2    (262057 / 261457)
+- Integrated Sensors      (262143 / 261843)
 
 This compendium will be gradually filled with tutorials, installation guides, and more over time.
 
-
-
+---
 
 
 ### If you have problems:
