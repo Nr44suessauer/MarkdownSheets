@@ -12,9 +12,8 @@ paginate: false
 ---
 
 ## Hardware Gruppenprojekt
-![Beschreibung des Bildes]()
 
-![bg left](https://picsum.photos/720?image=29)
+![bg left](https://github.com/Nr44suessauer/MarkdownSheets/blob/main/Presentations/Pictures/functionOverconstruction.jpg?raw=true)
 
 
 |  |  |
