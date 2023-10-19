@@ -44,6 +44,32 @@ Präsentiert Sensoren, die Daten erfassen, und die Aktuatoren, die physische Akt
 ---
 # **Beispiel Toaster**
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+
+[Youtube Link](
+ https://www.youtube.com/watch?v=DXrW-V-TpqE)
+
+---
+
+# **Dokumentation**
+
+- In Markdown geschrieben
+- Hochzuladen in Ilias bis : 19. Januar
+
+        Konzept (Schrift und Bild)
+        Prozess Dokumentiert
+        Bedienungsanleitung
+        Genutzte Software & Quellen
+
+
+---
+# Links
+
+[VsCode & Platformio](https://github.com/Nr44suessauer/MarkdownSheets/blob/main/Platformio/VsCode%26Platformio_Intruduction_DE.md)
+
+[Inspiration](https://www.youtube.com/playlist?list=PLQ6JQ5ZKEZn9YALmsY5SoPJMMOneK5-rn)
+
+[Tutorials Arduino Framework](https://docs.arduino.cc/built-in-examples/control-structures/SwitchCase2)
+
+[Basics Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ---
