@@ -50,6 +50,11 @@ Präsentiert die Sensoren, die Daten erfassen, und die Aktuatoren, die physische
  https://www.youtube.com/watch?v=DXrW-V-TpqE)
 
 ---
+        Keep it Simple 
+
+![bg 100%](https://github.com/Nr44suessauer/MarkdownSheets/blob/main/Presentations/Pictures/functionOverconstruction.jpg?raw=true)
+
+---
 
 # **Dokumentation**
 
