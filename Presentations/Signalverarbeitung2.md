@@ -44,6 +44,7 @@ Präsentiert Sensoren, die Daten erfassen, und die Aktuatoren, die physische Akt
 ---
 # **Beispiel Toaster**
 
+![bg ](https://cdn.mos.cms.futurecdn.net/gJgptKbP2g3hyJjqnPcUan-1200-80.jpg)
 
 [Youtube Link](
  https://www.youtube.com/watch?v=DXrW-V-TpqE)
@@ -60,8 +61,22 @@ Präsentiert Sensoren, die Daten erfassen, und die Aktuatoren, die physische Akt
         Bedienungsanleitung
         Genutzte Software & Quellen
 
+---
+
+# SemCon
+    Findet am 19.Januar statt (17:00Uhr - 19:00Uhr)
+
+    Wir freuen uns auf eure Projekte
+
+[Ilias | SemCon](
+ https://ilias.hs-heilbronn.de/ilias.php?ref_id=710107&cmdClass=ilrepositorygui&cmdNode=xq&baseClass=ilrepositorygui#il_mhead_t_focus)
+
+[Webseite | SemCon](https://www.hs-heilbronn.de/de/semcon)
+
+![bg right:50%](https://github.com/Nr44suessauer/MarkdownSheets/blob/main/Presentations/Pictures/semcon.jpg?raw=true)
 
 ---
+
 # Links
 
 [VsCode & Platformio](https://github.com/Nr44suessauer/MarkdownSheets/blob/main/Platformio/VsCode%26Platformio_Intruduction_DE.md)
@@ -73,3 +88,9 @@ Präsentiert Sensoren, die Daten erfassen, und die Aktuatoren, die physische Akt
 [Basics Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ---
+# Bei Fragen / Terminen
+    Marc.Nauendorf@Hs-Heilbronn.de
+    Büro: A328
+
+    Monday    13pm-18pm 
+    Tuesday   10am-12am 
