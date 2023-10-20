@@ -107,7 +107,7 @@ Präsentiert die Sensoren, die Daten erfassen, und die Aktuatoren, die physische
 [Basics Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ---
-# Bei Fragen / Terminen
+# Bei Fragen / Termine
     Marc.Nauendorf@Hs-Heilbronn.de
     Büro: A328
 
