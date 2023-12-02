@@ -10,6 +10,7 @@ paginate: true
 
 
 
+
 <!-- Beginn der Folie 1 -->
 ![bg ](https://github.com/Nr44suessauer/MarkdownSheets/blob/main/Presentations/Pictures/3D_Animation_Style_create_me_a_slide_for_a_powerpoint_xwhere_yo_3.jpg?raw=true)   <!-- 3D-Drucker Bild -->
 
@@ -23,7 +24,14 @@ paginate: true
 ---
 <!-- Beginn der Folie 3 -->
 
+CAD-Tools:
+- Fusion360
+- AutoCAD
 
+Erzeugt uns Dateien bestehend aus Punktwolken. Je nach Format mit anderen zusätzlichen Parametern.
+
+
+![bg left:55%](https://github.com/Nr44suessauer/MarkdownSheets/blob/main/Presentations/Pictures/bottle3Dprintmodel.jpg?raw=true)
 ---
 <!-- Beginn der Folie 4 -->
 
