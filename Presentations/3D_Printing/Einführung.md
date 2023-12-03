@@ -51,6 +51,14 @@ Dies ist dann eine präzise **Anweisung für die Hardware**.
 
 ---
 <!-- Beginn der Folie 6 -->
+![bg right:57%](https://github.com/Nr44suessauer/MarkdownSheets/blob/main/Presentations/Pictures/curaSettings.jpg?raw=true)
+
+# Config des G-Codes
+In einem Slicer werden benötigte Parameter aufgelistet.
+- Config des verwendeten Druckers
+- Einstellungen die dem Modell angepasst werden 
+
+Wenn **Material & Düse** sich nicht ändert, können **Einstellungen beibehalten** werden.
 
 ---
 <!-- Beginn der Folie 7 -->
