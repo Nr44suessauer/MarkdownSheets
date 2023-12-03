@@ -23,7 +23,7 @@ paginate: true
 
 ![bg left:55%](https://github.com/Nr44suessauer/MarkdownSheets/blob/main/Presentations/Pictures/bottle3Dprintmodel.jpg?raw=true)
 
-**CAD-Tools:**
+# CAD-Tools:
 - Fusion360
 - Blender
 - TinkerCAD
@@ -37,14 +37,21 @@ Je nach Format mit anderen **zusätzlichen Parametern**.
 
 ---
 <!-- Beginn der Folie 5 -->
-## <!--fit--> Auto Header (fefe fe)
-![](videoSimply3d.mp4)
+![bg left:40%](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBwcTRsaThkMXU4bnJsMDFrNWdldWlxcmZnYTJwc3RqN2J1MWxwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgtnuvUvEQkncqZpww/giphy.gif)
 
+# Erzeugen von G-Code
+**Zusätzliche Parameter**, werden in Datenpunkte integriert :
+- Temperatur
+- Geschwindigkeit
+- Materialfluss
+- etc
 
+Dies ist dann eine präzise **Anweisung für die Hardware**.
+<!-- Je Nach Hardware = G Command Palette  & Genormte Befehle -->
 
 ---
 <!-- Beginn der Folie 6 -->
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdybXk0MzNpbTBjY2RlZ2xnd2FhNmN6OWkxY2ZqdTkwcDVoNjJ3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zw5hen6dgqY058sAr4/giphy-downsized-large.gif)
+
 ---
 <!-- Beginn der Folie 7 -->
 
